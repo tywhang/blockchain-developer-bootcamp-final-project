@@ -31,7 +31,7 @@ TicketMaster and related ticketing services have flaws in these categories:
 2. Event organizers can remove price mark ups on secondary market
 3. Attendees can swap tickets with other users (user can pay out the difference in price)
 
-##### Level million
+##### Level 3
 ###### Event cancellations
 1. Oracles can be used to verify that an event has indeed occurred.
 2. Contract can hold funds in escrow until a confirmation of event occurrence. Then pay out or refund ticket buyers.
